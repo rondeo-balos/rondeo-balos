@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! Welcome to my repo 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rondeo-balos/rondeo-balos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
