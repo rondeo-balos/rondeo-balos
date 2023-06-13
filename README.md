@@ -1,7 +1,9 @@
 ### Hi there! Welcome to my repo 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=rondeo-balos&theme=dark)](https://git.io/streak-stats)-->
-- 🔭 I’m currently working on a project called Unforseen Quests, an rpg, side-scroller, soulslike, dungeon crawler game for android
+- 🔭 I’m currently working on a project called 
+    - Unforseen Quests, an rpg, side-scroller, soulslike, dungeon crawler game for android
+    - Maria Portal - Management portal for the Municipality of Maria
 - 🌱 I’m currently learning LibGDX and other languages/frameworks like React, Nodejs, etc.
 - 📫 How to reach me: Email me at rondeobalos@gmail.com
 <!--
