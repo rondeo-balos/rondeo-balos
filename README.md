@@ -5,7 +5,8 @@
     - Unforseen Quests, an rpg, side-scroller, soulslike, dungeon crawler game for android
     - Maria Portal - Management portal for the Municipality of Maria
 - 🌱 I’m currently learning LibGDX and other languages/frameworks like React, Nodejs, etc.
-- 📫 How to reach me: Email me at rondeobalos@gmail.com
+- 📫 How to reach me: Email me at [rondeobalos@gmail.com](mailto:rondeobalos@gmail.com)
+- 🌐 Visit my website: [rondeo-balos.github.io](https://rondeo-balos.github.io){:target="_blank"}
 <!--
 **rondeo-balos/rondeo-balos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
