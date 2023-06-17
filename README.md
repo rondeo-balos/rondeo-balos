@@ -1,5 +1,6 @@
 ### Hi there! Welcome to my repo 👋
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Rondeo Balos' GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos&count_private=true&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github)](https://github.com/rondeo-balos)
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=rondeo-balos&theme=dark)](https://git.io/streak-stats)-->
 - 🔭 I’m currently working on a project called 
     - Unforseen Quests, an rpg, side-scroller, soulslike, dungeon crawler game for android
