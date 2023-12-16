@@ -8,8 +8,8 @@
     - Maria Portal - Management portal for the Municipality of Maria
 - 🌱 I’m currently learning LibGDX and other languages/frameworks like React, Nodejs, etc.
 - 📫 How to reach me: Email me at [hello@rondeocreates.com](mailto:hello@rondeocreates.com)
-- 🌐 Visit my website: <a href="https://rondeocreates.com/" target="_blank">rondeocreates.com</a>
-- 🌐 View my portfolio: <a href="https://rondeobalos.com/" target="_blank">rondeobalos.com</a>
+- 🌐 Visit my website/portfolio: <a href="https://rondeocreates.com/" target="_blank">rondeocreates.com</a>
+- 🌐 View my website (experimental): <a href="https://rondeobalos.com/" target="_blank">rondeobalos.com</a>
 <!--
 **rondeo-balos/rondeo-balos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
