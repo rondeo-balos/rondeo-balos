@@ -12,7 +12,7 @@
     - NodeJS
     - Slim
     - Spring Boot
--🛠️ Technologies:
+- 🛠️ Technologies:
     - PHP
     - Mysql
     - Javascript
