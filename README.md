@@ -6,7 +6,19 @@
 <!--- 🔭 I’m currently working on a project called
     - Unforseen Quests, an rpg, side-scroller, soulslike, dungeon crawler game for android
     - Maria Portal - Management portal for the Municipality of Maria-->
-- 🌱 I’m currently learning LibGDX and other languages/frameworks like React, Nodejs, etc.
+- 🌱 I’m currently learning:
+    - LibGDX
+    - React
+    - NodeJS
+    - Slim
+    - Spring Boot
+-🛠️ Technologies:
+    - PHP
+    - Mysql
+    - Javascript
+    - CSS
+    - Java
+    - HTML
 - 📫 How to reach me: Email me at [hello@rondeocreates.com](mailto:hello@rondeocreates.com)
 - 🌐 Visit my website/portfolio: <a href="https://rondeocreates.com/" target="_blank">rondeocreates.com</a>
 - 🌐 View my website (experimental): <a href="https://rondeobalos.com/" target="_blank">rondeobalos.com</a>
