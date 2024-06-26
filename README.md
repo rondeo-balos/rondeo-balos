@@ -12,6 +12,8 @@
     - NodeJS
     - Slim
     - Spring Boot
+    - Laravel
+    - Vue
 - 🛠️ Technologies:
     - PHP
     - Mysql
