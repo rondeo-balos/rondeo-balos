@@ -1,11 +1,8 @@
 ### Hi there! Welcome to my repo 👋
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Rondeo Balos' GitHub stats](https://github-readme-stats.vercel.app/api?username=rondeo-balos&count_private=true&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&ring_color=2f81f7&icon_color=2f81f7&border_color=2f81f7)](https://github.com/rondeo-balos)-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rondeo-balos&ring_color=2f81f7&icon_color=2f81f7&border_color=2f81f7&theme=transparent&text_color=ffffff)]([[https://github.com/rondeo-balos](https://streak-stats.demolab.com/?user=rondeo-balos&ring_color=2f81f7&icon_color=2f81f7&border_color=2f81f7&theme=transparent&text_color=ffffff))
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rondeo-balos&theme=shadow-blue&border_radius=10&hide_longest_streak=true)](https://git.io/streak-stats)
 [![Rondeo Balos' GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=rondeo-balos&show_icons=true&include_all_commits=true&count_private=true&ring_color=2f81f7&icon_color=2f81f7&border_color=2f81f7&theme=transparent&text_color=ffffff)](https://github.com/rondeo-balos)
-<!--- 🔭 I’m currently working on a project called
-    - Unforseen Quests, an rpg, side-scroller, soulslike, dungeon crawler game for android
-    - Maria Portal - Management portal for the Municipality of Maria-->
+
 | 🌱 I currently work with: |
 | ---- |
 | [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) |
