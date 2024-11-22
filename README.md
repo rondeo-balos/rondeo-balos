@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my repo 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rondeo-balos&theme=shadow-blue&border_radius=10&hide_longest_streak=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=rondeo-balos&theme=shadow-blue&border_radius=10&hide_longest_streak=true)](https://git.io/streak-stats)-->
 [![Rondeo Balos' GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=rondeo-balos&show_icons=true&include_all_commits=true&count_private=true&ring_color=2f81f7&icon_color=2f81f7&border_color=2f81f7&theme=transparent&text_color=ffffff)](https://github.com/rondeo-balos)
 
 | 🌱 I currently work with: |
