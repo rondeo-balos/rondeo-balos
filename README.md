@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there! Welcome to my repo 👋
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=rondeo-balos&theme=shadow-blue&border_radius=10&hide_longest_streak=true)](https://git.io/streak-stats)-->
@@ -11,20 +13,10 @@
 | ---- |
 | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) |
 
-- 📫 How to reach me: Email me at [hello@rondeocreates.com](mailto:hello@rondeocreates.com)
-- 🌐 Visit my website/portfolio: <a href="https://rondeocreates.com/" target="_blank">rondeocreates.com</a>
-- 🌐 View my website (experimental): <a href="https://rondeobalos.com/" target="_blank">rondeobalos.com</a>
-<!--
-**rondeo-balos/rondeo-balos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: Email me at [hello@rondeocreates.com](mailto:hello@rondeocreates.com)
 
-Here are some ideas to get you started:
+🌐 Visit my website/portfolio: <a href="https://rondeocreates.com/" target="_blank">rondeocreates.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 View my website (experimental): <a href="https://rondeobalos.com/" target="_blank">rondeobalos.com</a>
+
+</div>
