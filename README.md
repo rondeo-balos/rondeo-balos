@@ -13,7 +13,7 @@
 | ---- |
 | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) |
 
-📫 How to reach me: Email me at [rondeobalos@gmail.com](mailto:rondeobalos@gmail.com)
+📫 How to reach me: Email me at [hello@rondeobalos.com](mailto:hello@rondeobalos.com)
 
 🌐 Visit my website/portfolio: [rondeobalos.com](https://rondeobalos.com/)
 
