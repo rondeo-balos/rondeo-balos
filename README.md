@@ -15,8 +15,6 @@
 
 📫 How to reach me: Email me at [rondeobalos@gmail.com](mailto:rondeobalos@gmail.com)
 
-🌐 Visit my website/portfolio: <a href="https://rondeocreates.com/" target="_blank">rondeocreates.com</a>
-
-🌐 View my website (experimental): <a href="https://rondeobalos.com/" target="_blank">rondeobalos.com</a>
+🌐 Visit my website/portfolio: [rondeobalos.com](https://rondeobalos.com/)
 
 </div>
